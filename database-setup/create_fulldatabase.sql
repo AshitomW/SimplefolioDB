@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS SimplefolioDB;
+CREATE DATABASE IF NOT EXISTS simplefoliodb;
 
-Use SimplefolioDB;
+Use simplefoliodb;
 -- Investors Table Schema
 CREATE TABLE IF NOT EXISTS Investor (
     investor_id INT AUTO_INCREMENT PRIMARY KEY,   -- Unique identifier for the investor
