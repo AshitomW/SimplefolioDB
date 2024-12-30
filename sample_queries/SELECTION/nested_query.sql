@@ -1,0 +1,1 @@
+SELECT * FROM Transaction WHERE price_per_share > (SELECT AVG(price_per_share) FROM Transaction);

@@ -1,0 +1,1 @@
+UPDATE Transaction SET transaction_type="Sell" Where transaction_id = 1;

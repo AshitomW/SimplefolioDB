@@ -1,0 +1,1 @@
+SELECT i.investment_id , i.quantity , s.symbol,s.company_name FROM Stock s LEFT JOIN Investments i USING (stock_id);

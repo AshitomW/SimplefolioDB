@@ -1,0 +1,1 @@
+SELECT * FROM Investor Where first_name LIKE "A%";

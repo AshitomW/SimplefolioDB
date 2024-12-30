@@ -1,0 +1,1 @@
+SELECT i.investment_id , i.quantity , s.symbol,s.company_name FROM Investments i INNER JOIN Stock s USING (stock_id);
