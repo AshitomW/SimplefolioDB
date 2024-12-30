@@ -64,6 +64,11 @@ This repository contains a basic database implementation that simulates simplifi
 
 ## Setup Instructions
 
+### Requirements
+
+1. MySQL Server
+2. MySQL Workbench
+
 ### Option 1: Using Database Setup Scripts
 
 1. Install MySQL and MySQL Workbench on your system
@@ -85,11 +90,6 @@ mysql -u your_username -p your_database_name < dump_file.sql
 1. Basic database schema for portfolio data
 2. Sample SQL queries for practice
 3. Simple stored procedures examples
-
-## Requirements
-
-1. MySQL Server
-2. MySQL Workbench
 
 ## Note
 
