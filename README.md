@@ -8,7 +8,7 @@ This repository contains a basic database implementation that simulates simplifi
 
 ## Repository Structure
 
--   `database-setup/` - Contains SQL scripts for creating and initializing the database schema
+-   `database_setup/` - Contains SQL scripts for creating and initializing the database schema
 -   `database_dump/` - MySQL dump files for quick database import
 -   `sample_queries/` - Collection of example SQL queries for common operations
 -   `stored_procedures/` - SQL stored procedures for advanced database operations
