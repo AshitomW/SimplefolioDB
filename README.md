@@ -93,7 +93,7 @@ mysql -u your_username -p your_database_name < dump_file.sql
 
 ## Note
 
-This is a practice project intended for learning purposes. It implements basic database operations and is not suitable for managing real investment portfolios or financial data.
+This is a practice project designed for learning purposes, demonstrating basic database operations. It is not intended for managing real investment portfolios or financial data in any capacity.
 
 ## Usage
 
